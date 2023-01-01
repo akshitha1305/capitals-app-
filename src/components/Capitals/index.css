@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #93c5fd;
+  font-family: 'Roboto';
+}
+
+.country-container {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 8px;
+  margin: 20px;
+}
+.drop-down {
+  padding: 5px;
+  margin-right: 7px;
+  font-weight: 600;
+  width: 160px;
+  outline: none;
+}
+.para {
+  color: #1e293b;
+  font-weight: 600;
+  font-size: 30px;
+}
